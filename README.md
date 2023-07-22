@@ -1,4 +1,4 @@
-## Simple HAProxy with two gginx in local Docker environment
+## Simple HAProxy with two nginx in local Docker environment
 
 Start with `docker-compose up -d && docker-compose logs -f`.
 
